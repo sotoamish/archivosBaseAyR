@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+   <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- Bootstrap core CSS -->
+      <link href="https://www.alasyraices.gob.mx/vendor/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" title="Basic">
+      <!-- Custom fonts for this template -->
+      <link href="https://www.alasyraices.gob.mx/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+      <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+      <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+      <!-- Plugin CSS -->
+      <link href="https://www.alasyraices.gob.mx/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+      <!-- Custom styles for this template -->
+      <link href="https://www.alasyraices.gob.mx/css/freelancer.min.css" rel="stylesheet">
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139317831-1">
+      </script>
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-139317831-1');
+      </script>
+  </head>   
+  <body id="page-top">
+    <!-- Contenido -->
+    <main class="page">
+      <picture>
+      <source srcset="..." type="image/png+xml">
+        <a href="https://www.alasyraices.gob.mx/sabatinos.html">
+        <img class="hidden-xs img-responsive img-fluid img-rounded mx-auto d-block" src="https://www.alasyraices.gob.mx/img/cartelera/sabatinos/sabatinos_banner-LG.png"></a>
+      </picture>
+      <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg bg-secondary text-uppercase" id="mainNav">
+      <div class="container">
+        <div class="site-logo">
+        <a href="https://www.alasyraices.gob.mx/index.html" title="alasyraices" rel="home">
+        <img class="header-image" alt="alasyraices.gob.mx" src="https://www.alasyraices.gob.mx/ayr.png" title="alasyraices">
+        </a>
+        </div>
+        <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"> Men&uacute;
+        <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+        <div class="row"><a class="navbar-brand js-scroll-trigger" href="#page-top"></a>
+        <li class="nav-item mx-0 mx-lg-1"> 
+        <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://www.alasyraices.gob.mx/quienessomos.html">Nosotros</a></li>&nbsp;
+        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://www.alasyraices.gob.mx/aplicaciones.html">Aplicaciones</a></li>&nbsp;
+        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://www.alasyraices.gob.mx/ebooks.html">E-books</a></li>&nbsp;
+        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://www.mexicoescultura.com/"><small>mexico<b>es</b>cultura</small></a></li>&nbsp;
+        </ul>
+        </div>
+        </div>
+        <div class="rowspan=5">
+        <ul class="list-inline mb-0">
+        <li class="list-inline-item">
+        <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://www.facebook.com/alasyraicescultura/">
+        <i class="fab fa-fw fa-facebook-f"></i>
+        </a>
+        </li>
+        <li class="list-inline-item">
+        <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://twitter.com/alasyraices">
+        <i class="fab fa-fw fa-twitter"></i>
+        </a>
+        </li>
+        <li class="list-inline-item">
+        <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://www.instagram.com/alasyraicescultura/">
+        <i class="fab fa-fw fa-instagram"></i>
+        </a>
+        </li>
+        </ul>
+        </div>
+      </div>
+      <br>
+    </nav>  
+<section class="bg-primary">
+<!-- secondary menu -->
+  <div class="container">
+
+    <div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex justify-content-between navbar navbar-expand-lg bg-light" id="secondaryNav">
+      <a class="p-1" href="https://www.alasyraices.gob.mx/cartelera.html">Cartelera</a>
+      <a class="p-1" href="https://www.alasyraices.gob.mx/juegos.html">Juegos</a>
+      <a class="p-1" href="https://www.alasyraices.gob.mx/canciones.html">Canciones</a>
+      <a class="p-1" href="https://www.alasyraices.gob.mx/librero.html">Librero</a>
+      <a class="p-1" href="https://www.alasyraices.gob.mx/cuentos.html">Cuentos</a>
+      <a class="p-1" href="https://www.alasyraices.gob.mx/ejercicios.html">Ejercicios</a>
+      <a class="p-1" href="https://www.alasyraices.gob.mx/trabalenguas.html">Trabalenguas</a>
+      <a class="p-1" href="https://www.alasyraices.gob.mx/receta.html">Recetas</a> 
+      <a class="p-1" href="https://www.alasyraices.gob.mx/podcast.html">Podcast</a>  
+    </nav>
+  </div>
+<!-- /.secondary menu -->
+<div class="container ">
+    <div class="row">
+<!-- blog-main -->
+<main role="main" class="container">
+  <div class="row">
+    <div class="col-md-8 blog-main">
+       <!-- video header -->
+      <p class="text-secondary">Revive toda esta diversión el último sábado de cada mes y resignifiquemos juntos el espacio histórico del Centro Cultural Los Pinos:</p>
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" width="750" height="447" src="https://www.youtube.com/embed/tEygZkP4oDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <br>
+  <div class="row">
+    <div class="col">
+      <a href="https://www.alasyraices.gob.mx/sabatinos.html">
+        <img class="img-fluid img-responsive" src="https://www.alasyraices.gob.mx/img/cartelera/sabatinos/sabatinos27j.png" alt=""></a> 
+    </div>
+  </div>
+ <!-- /. video header -->
+</div>
+<!-- /.blog-main -->
+
+    <aside class="col-md-4 blog-sidebar">
+      <br>
+      
+      <div class="p-4 mb-3 alert-success rounded">
+        <h4 class="title">JUEGOS <small>DESCARGABLES</small></h4>
+        <div class="row">
+          <div class="col-3">
+            <img src="/img/iconos/descarga.png" alt="">
+          </div>
+          <div class="col-9">
+          <p>Encuentra los juguetes de papel más divertidos, ¡Te van a encantar! 
+        <br><small class="text-muted">Descarga, imprime y juega</small></p>
+        </div>
+        </div>       
+        <button type="button" class="btn btn-sm btn-success ">Saber más</button> 
+      </div>
+
+      <div class="p-4 mb-3 alert-warning rounded">
+        
+        <h4 class="title">CUENTOS <small>para dormir</small></h4>
+        <div class="row">
+          <div class="col-5"><img src="img/cone.png" alt=""></div>
+          <div class="col-7"><p class="mb-0">Esta es la historia de un conejo que se estrelló en la luna hace muchísimos años...
+            <br><small class="text-muted">Lectura en familia</small>
+            <br><small class="text-muted">9 minutos</small></p></div>
+        </div>
+        <div class="container text-center">
+         <button type="button" class="btn btn-sm btn-warning">¡Leamos juntos!</button></div>
+      </div>
+
+      <div class="p-4 mb-3 alert-info rounded">
+        <h4 class="title">RECETAS <small>para postres</small></h4>
+        <p class="mb-0">Cada rincón mexicano tiene un sabor particular. ¿Quieres conocer los postres más sabrosos? ¡Juega a paladear los sabores de todo México! 
+            <br><small class="text-muted">Aprende y juega</small>
+            <br><small class="text-muted">9 minutos</small></p>
+         <button type="button" class="btn btn-sm btn-info">¡Prepáralo!</button> 
+      </div> 
+</section>
+
+ <section class="bg-info">
+  <div class="container align-items-center">
+    <div class="row">
+      <div class="col-md-8 col-xl-12">
+        <h1>Cartelera Julio</h1>
+      
+      <div class="container align-items-center">
+        <div class="row">
+          <div class="col-md-12 col-xl-7">
+            <a href="https://www.alasyraices.gob.mx/sabatinos.html">
+              <img class="img-fluid img-responsive" src="https://www.alasyraices.gob.mx/img/cartelera/sabatinos/sabatinos27j.png" alt=""></a> 
+            </div>
+            <div class="col-md-12 col-xl-5 text-white">
+        <br>
+        <p class="lead">Ya está disponible la cartelera de <b>Mis Pininos Sabatinos</b> para el próximo sábado 27 de julio de 2019 en el Centro Cultural Los Pinos. Asiste con tus niños, niñas y adolescentes y disfruta todo lo que hemos preparado para divertirse en familia. 
+        <br class="text-center"><h4>¡La entrada es libre!</h4></p>
+        <a class="btn btn-warning btn-xl js-scroll-trigger" href="https://www.alasyraices.gob.mx/sabatinos.html">Entra a la programación <b>AQUÍ</b></a>
+      </div>
+
+      <div class="col-md-12 col-xl-7">
+            <a href="https://www.alasyraices.gob.mx/puroteatro.html">
+              <img class="img-fluid img-responsive" src="https://www.alasyraices.gob.mx/img/cartelera/puroteatro/escenario.png" alt=""></a> 
+            </div>
+            <div class="col-md-12 col-xl-5 text-white">
+        <br>
+        <p class="lead">Conoce la programación para público infantil en el marco del 22 Festival Puro Teatro, con sedes en las alcaldías de Coyoacán y de Miguel Hidalgo en la Ciudad de México y en el Municipio de Huixquilucan, Estado de México. 
+        <br>Acompáñanos y acerca a los más pequeños al teatro de marionetas, de personajes y de mundos maravillosos, escondidos detrás del telón.
+        <br class="text-center"><h4>¡La entrada es libre!</h4></p>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://www.alasyraices.gob.mx/puroteatro.html">Conoce todas las obras de teatro haciendo clic <b>AQUÍ</b></a>
+      </div>
+          </div>
+        </div>
+    </div>
+<hr>
+<br>
+  </div> 
+<div class="container align-items-right">
+  <div class="row">
+    <div class="col-xl-6 text-white">
+      <br>
+      <h3>Exposiciones</h3>
+        <p class="lead">
+        La exposición <i>“Los Niños y las Niñas tenemos Derecho a tener Derechos”</i> se exhibe a partir del 8 de julio hasta el 30 de septiembre en la Galería Abierta “Juventud Heroica”, en la primera sección del Bosque de Chapultepec. ¡La entrada es libre! Asiste con tus peques y haz clic en el dragón para conocer más detalles:</small></h4>
+      </p>
+     </div>
+    <div class="col-xl-6 ">
+    <div class="card-body align-items-right">
+      <a href="https://www.alasyraices.gob.mx/press/post18.html">   
+      <img class="img-fluid rounded mb-4 mb-lg-0" src="https://www.alasyraices.gob.mx/img/cartelera/derechos.png" alt=""></a>
+    </div>
+    </div>
+  </div>
+</div>
+
+<div class="container bg-light">
+    <div class="row">
+      <div class="col col-md-6 text-secondary">
+        <div class="card-body">          
+          <h3 class="h3">julio - agosto de 2019 </h3>
+          <h1 class=text-primary>¡Inscripciones abiertas!</h1>
+        <h3>CURSOS Y TALLERES DE VERANO EN EL ARZOBISPADO</h3>
+        <p>Museo de Arte de la Secretaría de Hacienda y Crédito Público. <b>Antiguo Palacio del Arzobispado</b>
+        <br>
+        <br>Ven y participa en el programa de actividades artísticas, lúdicas, educativas y recreativas que hemos preparado para todos los niños y niñas curiosos. 
+        <br>
+        <br><button><a href="https://www.alasyraices.gob.mx/arzobispado.html">Conoce toda la programación y los requisitos de inscripción <b>aquí</b></a></button>
+        </p> 
+        </div>
+        </div>
+        <div class="col-md-6">
+          <br>
+          <img class="card-img-top" class="img-fluid" src="https://www.alasyraices.gob.mx/img/sedes/arzo.png" alt="">
+          <br>
+        </div>
+      </div>
+    </div>
+   </div> 
+</section>
+<section class="galery">
+  <!-- Page Content -->
+<div class="container">
+  <h1 class="font-weight-light text-center text-lg-left mt-4 mb-0">Programas permanentes</h1>
+        <p class="m-0">Consulta todas nuestras actividades en los estados de la Rep&uacute;blica mexicana y en la ciudad de M&eacute;xico haciendo clic:</p>
+        <!--
+        <br>Descarga toda la información en PDF 
+        <a class="btn btn-info" href="cartelera-jun.pdf">aquí</a> </p> -->
+  <hr class="mt-2 mb-5"> 
+  <div class="row text-center text-lg-left">
+    <div class="col-lg-3 col-md-4 col-6">
+      <a href="/lenguas.html" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src="img/iconos/lenguas.png" alt="">
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-4 col-6">
+      <a href="/identidades.html" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src="img/iconos/identidades.png" alt="">
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-4 col-6">
+      <a href="/brotes.html" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src="img/iconos/brotes.png" alt="">
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-4 col-6">
+      <a href="/radioalas.html" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src="img/iconos/radioalas.png" alt="">
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-4 col-6">
+      <a href="/cinemaraiz.html" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src="img/iconos/cinemaraiz.png" alt="">
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-4 col-6">
+      <a href="/marciano.html" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src="img/iconos/marciano.png" alt="">
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-4 col-6">
+      <a href="/hospitalarte.html" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src="img/iconos/hospitalarte.png" alt="">
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-4 col-6">
+      <a href="/dif.html" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail" src="img/iconos/dif.png" alt="">
+      </a>
+    </div>    
+  </div>
+</div>
+<!-- /.container -->
+</section>
+<section class="bg-light">
+<div class="container bg-light">
+    <div class="row">
+      <!-- Calendario -->
+      <div class="col-lg-6">
+        <div class="card mb-5 mb-lg-0">
+          <div class="card-body">
+            <div class="container">
+      <div class="row">
+        <div class="span12 text-center">
+        <table class="table-condensed table-bordered text-center">
+          <thead class="thead-light">
+                    <tr>
+                      <th class="bg-primary text-center" colspan="12">
+                      <h3>Actividades de julio de 2019</h3> 
+                      </th>
+                    </tr>
+                    <tr>
+                        <td><small>&nbsp;domingo&nbsp;</small></td>
+                        <td><small>&nbsp;lunes&nbsp;</small></td>
+                        <td><small>&nbsp;martes&nbsp;</small></td>
+                        <td><small>mi&eacute;rcoles<small></td>
+                        <td><small>&nbsp;jueves&nbsp;</small></td>
+                        <td><small>viernes&nbsp;</small></td>
+                        <td><small>&nbsp;s&aacute;bado&nbsp;</small></td></small>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="text-muted"> </td>
+                        <td class="text-muted"> </td>
+                        <td class="text-muted"> </td>
+                        <td class="text-muted"> </td>
+                        <td class="text-muted"> </td>
+                        <td class="text-muted"> </td>
+                       
+                    </tr>
+                    <tr>
+                       <td class="text-muted">30</td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td class="bg-secondary"><a href="https://www.alasyraices.gob.mx/izta.html">3</a></td>
+                        <td class="bg-secondary"><a href="https://www.alasyraices.gob.mx/izta.html">4</a></td>
+                        <td class="bg-secondary"><a href="https://www.alasyraices.gob.mx/izta.html">5</a></td>
+                        <td class="bg-secondary"><a href="https://www.alasyraices.gob.mx/izta.html">6</a></td>
+                    </tr>
+                    <tr>
+                        <td class="bg-secondary"><a href="https://www.alasyraices.gob.mx/izta.html">7</a></td>
+                        <td>8</td>
+                        <td>9</td>
+                        <td>10</td>
+                        <td>11</td>
+                        <td>12</td>
+                        <td>13</td>
+                        </tr>
+                        <tr>
+                        <td>14</td>
+                        <td>15</td>
+                        <td>16</td>
+                        <td>17</td>
+                        <td>18</td>
+                        <td>19</td>
+                        <td>20</td>
+                        </tr>
+                        <tr>
+                        <td>21</td>
+                        <td>22</td>
+                        <td>23</td>
+                        <td>24</td>
+                        <td>25</td>
+                        <td>26</td>
+                        <td class="bg-secondary"><b><a href="https://www.alasyraices.gob.mx/sabatinos.html">27</a></b></td>
+                        </tr>
+                         <tr>
+                        <td>28</td>
+                        <td>29</td>
+                        <td>30</td>
+                        <td>31 </td>
+                        <td class="text-muted">1</td>
+                        <td class="text-muted">2</td>
+                        <td class="text-muted">3</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+  </div>
+</div>
+          </div>
+        </div>
+      </div>
+      <!-- Segundo bloque --> 
+      <div class="col-lg-6">
+        <div class="card mb-5 mb-lg-0">
+          <div class="card-body">
+            <h5 class="card-title text-center">Pr&oacute;ximamente <small>Consulta la cartelera por tipo de p&uacute;blico</small> </h5> 
+          </div>
+           <div class="col-auto">
+          <br> 
+          <img src="img/iconos/1a.png" alt=""> &nbsp;
+          <img src="img/iconos/2a.png" alt="">  &nbsp;
+          <img src="img/iconos/ado.png" alt=""> 
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <!-- Footer -->
+    <footer class="footer bg-secondary text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 mb-5 mb-lg-0">
+            <p class="lead mb-0">D&oacute;nde estamos</p>
+            <br>Av. Paseo de la Reforma 175, piso 5
+            <br>Col. Renacimiento, Alc. Cuauht&eacute;moc
+            <br>C.P. 06500, Ciudad de M&eacute;xico, M&eacute;xico
+            <br><a href="https://goo.gl/maps/s1DtfM9FRxN2" target="_blank"> Ub&iacute;calo en gmaps</a>
+            <br>
+            <br><small>Tel&eacute;fono: 4155-0200 ext 9320
+            <br>correo-e: alasyraices@cultura.gob.mx</small>
+          </div>
+          <div class="col-md-4 mb-5 mb-lg-0">
+            <p class="lead mb-0">S&iacute;guenos en las redes</p>
+            <a href="https://www.facebook.com/alasyraicescultura/" target="_blank">
+            <img src="https://www.alasyraices.gob.mx/img/cartelera/Pininos/fb.png"></a>
+            <a href="https://twitter.com/alasyraices" target="_blank">
+            <img src="https://www.alasyraices.gob.mx/img/cartelera/Pininos/tw.png"></a>
+            <a href="https://www.instagram.com/alasyraicescultura/" target="_blank">
+            <img src="https://www.alasyraices.gob.mx/img/cartelera/Pininos/in.png"></a>
+            <br>
+            <br>
+            <br>
+            <br>
+            <a class="btn btn-primary" href="#page-top">Subir</a>
+            <br>
+            <br>
+            <p class="lead mb-0">
+      <a href="https://www.alasyraices.gob.mx/prensa.html">Prensa</a>
+            <br>
+          </div>
+          <div class="col-md-4">
+      <h4 class="alert-heading">Pr&oacute;ximamente</h4>
+      <p>Consultar la cartelera de actividades de <i>Alas y Ra&iacute;ces</i> para cada estado de la Rep&uacute;blica mexicana nunca fue tan sencillo.</p>
+      <hr>
+      <p class="mb-0">Suscr&iacute;bete a las actividades que tenemos en tu estado y recibe informaci&oacute;n sobre laboratorios creativos, narraciones orales, presentaciones art&iacute;sticas y m&aacute;s.</p>
+    </div>
+        </div>
+      </div>
+    </footer>
+
+    <div class="copyright py-4 bg-primary text-center text-white">
+      <div class="container">
+        <div class="site-logo">
+          <br>
+          <a href="https://www.alasyraices.gob.mx/index.html" title="alasyraices" rel="home">
+           <img class="header-image" alt="alasyraices.gob.mx" src="https://www.alasyraices.gob.mx/ayr.png" title="alasyraices">
+          </a>
+        </div>
+
+        <div class="container align-items-center">
+          <div class="row">
+            <div class="col-md-6 col-lg-12">
+          <br>
+          <small>Derechos reservados &copy; Secretar&iacute;a de Cultura, 
+          <br>Coordinaci&oacute;n Nacional de Desarrollo Cultural Infantil, 
+          <br>Programa nacional <i>Alas y Ra&iacute;ces</i>, M&eacute;xico, 2019. </small>
+          <!-- <a href="https://www.alasyraices.gob.mx/directorio.html"> Directorio </a>
+          | <a href="https://www.alasyraices.gob.mx/privacidad.html"> Privacidad </a> 
+          | --> 
+          <!--
+          <a href="https://www.alasyraices.gob.mx/blogayr.html"> PapÃ¡s: Â¿CÃ³mo usar este sitio web?</a> -->
+          <br>
+          <br>
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+      <div class="scroll-to-top d-lg-none position-fixed ">
+        <a class="js-scroll-trigger d-block text-center" href="#page-top">
+          <i class="fa fa-chevron-up"></i>
+        </a>
+      </div>
+
+ <!-- JS Bootstrap-->
+      <script src="https://www.alasyraices.gob.mx/js/jquery.js"></script>
+      <script src="https://www.alasyraices.gob.mx/js/popper.js"></script>
+      <script src="https://www.alasyraices.gob.mx/js/bootstrap.min.js"></script>
+      <!-- JS -->
+    <script src="https://framework-gb.cdn.gob.mx/gobmx.js"></script>
+  </body>
+</html>
